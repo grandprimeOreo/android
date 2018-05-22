@@ -6,6 +6,8 @@
            review="review.msm8916.com"
            revision="lineage-15.1" />
    
+  <remote  name="github"
+           fetch="https://github.com/" />
   
    <!-- TWRP -->
   <project path="bootable/recovery-twrp" name="Galaxy-MSM8916/android_bootable_recovery" remote="github" revision="android-8.1"/>
